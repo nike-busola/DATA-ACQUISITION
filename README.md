@@ -2,6 +2,7 @@
 This repository documents a digital forensic exercise focused on acquiring an image of a removable storage device using FTK Imager, a widely-used tool for digital evidence collection and analysis.
 
 Project Overview
+
 Title: Removable Media Acquisition with FTK Imager  
 
 Author: Adenike Oluwabusola Oni  
@@ -82,7 +83,7 @@ Skills & Tools Demonstrated
 - Image hashing and verification
 
 
-Disclaimer
+Disclaimer: 
 This is an academic/educational project carried out in a controlled environment. No real user or criminal data was involved. For instructional use only.
 
 
